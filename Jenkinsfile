@@ -1,9 +1,9 @@
 pipeline{
     agent any
     stages{
-        stage("welcome"){
+        stage("Getlost"){
         steps{
-            echo "welcome to jenkins"
+            echo "Yahase nikalo"
              }
         }
     }
