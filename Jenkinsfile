@@ -1,4 +1,3 @@
-currentBuild.displayname="practice#"
 pipeline{
     agent any
     stages{
