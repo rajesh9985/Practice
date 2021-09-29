@@ -1,3 +1,5 @@
+currentBuild.displayName = "first-#"+currentBuild.number
+
 pipeline{
     agent any
     stages{
